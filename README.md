@@ -1,7 +1,6 @@
 # PowerGreen
 **PowerGreen**
-*Energia limpa em moviento*
-![GitHub repo size](https://img.shields.io/github/repo-size/wagnermor/PowerGreen_BackEnd?color=green) [![GitHub](https://img.shields.io/github/license/wagnermor/PowerGreen_BackEnd)](https://github.com/wagnermor/PowerGreen_BackEnd/blob/main/LICENSE) ![GitHub top language](https://img.shields.io/github/languages/top/wagnermor/PowerGreen_BackEnd?color=green)
+*Energia limpa em moviento*<br>![GitHub repo size](https://img.shields.io/github/repo-size/wagnermor/PowerGreen_BackEnd?color=green) [![GitHub](https://img.shields.io/github/license/wagnermor/PowerGreen_BackEnd)](https://github.com/wagnermor/PowerGreen_BackEnd/blob/main/LICENSE) ![GitHub top language](https://img.shields.io/github/languages/top/wagnermor/PowerGreen_BackEnd?color=green)
 # Sobre o projeto
 
 [https://powerGreen.com.br](https://github.com/wagnermor/PowerGreen_BackEnd "Projeto powerGreen")
