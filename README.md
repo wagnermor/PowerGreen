@@ -88,7 +88,7 @@ cd powerGreen
         height: 100px;
         width:100px;
         background: black;">
-        <img src="https://avatars.githubusercontent.com/u/120661184?v=4"/>
+        <img style = "width:50px" src="https://avatars.githubusercontent.com/u/120661184?v=4"/>
     </div>
     <p>Marlon Bassoto</p>
     <a href="https://github.com/Killbazz" target="_blank">
@@ -108,7 +108,7 @@ cd powerGreen
         height: 100px;
         width:100px;
         background: black;">
-        <img src="https://avatars.githubusercontent.com/u/120653890?v=4"/>
+        <img style = "width:50px" src="https://avatars.githubusercontent.com/u/120653890?v=4"/>
     </div>
     <p>Joel Jr.</p>
     <a href="https://github.com/Joeljrbeginner" target="_blank">
@@ -128,7 +128,7 @@ cd powerGreen
         height: 100px;
         width:100px;
         background: black;">
-        <img src="https://avatars.githubusercontent.com/u/120660461?v=4"/>
+        <img style = "width:50px" src="https://avatars.githubusercontent.com/u/120660461?v=4"/>
     </div>
     <p>Carol Bertulli</p>
     <a href="https://github.com/CarolBertulli" target="_blank">
@@ -148,7 +148,7 @@ cd powerGreen
         height: 100px;
         width:100px;
         background: black;">
-        <img src="https://avatars.githubusercontent.com/u/120189007?v=4"/>
+        <img style = "width:50px" src="https://avatars.githubusercontent.com/u/120189007?v=4"/>
     </div>
     <p>Jessica Cavalcante</p>
     <a href="https://github.com/jess59cavalcante" target="_blank">
@@ -168,7 +168,7 @@ cd powerGreen
         height: 100px;
         width:100px;
         background: black;">
-        <img src="https://avatars.githubusercontent.com/u/117678443?v=4"/>
+        <img style = "width:50px" src="https://avatars.githubusercontent.com/u/117678443?v=4"/>
     </div>
     <p>Gustavo Henrique</p>
     <a href="https://github.com/Jotapppe" target="_blank">
@@ -188,7 +188,7 @@ cd powerGreen
         height: 100px;
         width:100px;
         background: black;">
-        <img src="https://avatars.githubusercontent.com/u/47096330?v=4"/>
+        <img style = "width:50px" src="https://avatars.githubusercontent.com/u/47096330?v=4"/>
     </div>
     <p>Wagner Moreira</p>
     <a href="https://github.com/wagnermor" target="_blank">
