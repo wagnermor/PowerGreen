@@ -110,7 +110,7 @@ cd powerGreen
         height: 100px;
         width:100px;
         background: black;">
-        <img style = "width:50px  border-radius:100px" src="https://avatars.githubusercontent.com/u/120661184?v=4"/>
+        <img style = "width:100px  border-radius:100px" src="https://avatars.githubusercontent.com/u/120661184?v=4"/>
     </div>
     <p>Marlon Bassoto</p>
     <a href="https://github.com/Killbazz" target="_blank">
@@ -150,7 +150,7 @@ cd powerGreen
         height: 100px;
         width:100px;
         background: black;">
-        <img style = "width:100px  border-radius:100px" src="https://avatars.githubusercontent.com/u/120660461?v=4"/>
+        <img style = "width:100px border-radius:100px" src="https://avatars.githubusercontent.com/u/120660461?v=4"/>
     </div>
     <p>Carol Bertulli</p>
     <a href="https://github.com/CarolBertulli" target="_blank">
