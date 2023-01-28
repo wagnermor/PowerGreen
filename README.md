@@ -10,12 +10,12 @@ PowerGreen é uma aplicação full stack, web e mobile, construída como projeto
 A aplicação consiste em um e-commerce para locação de bateria recaregável (powerbank) para veículos elétricos, onde é feito o cadastro e login do usuário e depois de logado, são listadas as baterias disponíveis para locação.
 
 
-## Modelo 
+## Fluxo do usuário 
 ```mermaid
 graph TD;
 Página_principal-->Cadastro/usuário;
 Página_principal-->Login_usuário;
-Cadastro/usuário-->Escolha_da_assinatura;
+Cadastro/usuário-->Login_usuário;
 Login_usuário-->Escolha_da_assinatura;
 Escolha_da_assinatura-->Escolha_da_bateria;
 Escolha_da_bateria-->Pagamento_adicional;
