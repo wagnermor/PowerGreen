@@ -56,9 +56,10 @@ cd powerGreen
 
 # Colaboradores
 <div>
-  <div style = "width:140px;
+  <div style = "max-width:140px;
     text-align:center;
     border:none;
+    float:left;
     display:inline-block;
     margin: 0 24px 16px 0">
     <div style="border-radius: 100%;
@@ -75,9 +76,10 @@ cd powerGreen
     </a>
   </div>
 
-<div style = "width:140px;
+<div style = "max-width:140px;
     text-align:center;
     border:none;
+    float:left;
     display:inline-block;
     margin: 0 24px 16px 0">
     <div style="border-radius: 100%;
@@ -97,6 +99,7 @@ cd powerGreen
 <div style = "width:140px;
     text-align:center;
     border:none;
+    float:left;
     display:inline-block;
     margin: 0 24px 16px 0">
     <div style="border-radius: 100%;
@@ -116,6 +119,7 @@ cd powerGreen
 <div style = "width:140px;
     text-align:center;
     border:none;
+    float:left;
     display:inline-block;
     margin: 0 24px 16px 0">
     <div style="border-radius: 100%;
@@ -135,6 +139,7 @@ cd powerGreen
   <div style = "width:140px;
     text-align:center;
     border:none;
+    float:left;
     display:inline-block;
     margin: 0 24px 16px 0">
     <div style="border-radius: 100%;
@@ -154,6 +159,7 @@ cd powerGreen
 <div style = "width:140px;
     text-align:center;
     border:none;
+    float:left;
     display:inline-block;
     margin: 0 24px 16px 0">
     <div style="border-radius: 100%;
@@ -173,6 +179,7 @@ cd powerGreen
   <div style = "width:140px;
     text-align:center;
     border:none;
+    float:left;
     display:inline-block;
     margin: 0 24px 16px 0">
     <div style="border-radius: 100%;
