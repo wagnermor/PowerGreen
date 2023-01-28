@@ -1,3 +1,8 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 # PowerGreen
 **PowerGreen**
 *Energia limpa em moviento*
@@ -55,30 +60,6 @@ cd powerGreen
 ```
 
 # Colaboradores
-[![Mask type](https://wsrv.nl/?url=avatars.githubusercontent.com/u/47096330?v=4&w=100&h=100&fit=cover&mask=circle)
-Wagner Moreira
-![](https://img.shields.io/github/followers/wagnermor?style=social)](https://github.com/wagnermor)
-
-[![Mask type](https://wsrv.nl/?url=avatars.githubusercontent.com/u/120661184?v=4&w=100&h=100&fit=cover&mask=circle)
-Marlon Bassoto
-![](https://img.shields.io/github/followers/Killbazz?style=social)](https://github.com/Killbazz)
-
-[![Mask type](https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/120653890?v=4&w=100&h=100&fit=cover&mask=circle)
-Joel Jr.
-![](https://img.shields.io/github/followers/Joeljrbeginner?style=social)](https://github.com/Joeljrbeginner)
-
-[![Mask type](https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/120660461?v=4&w=100&h=100&fit=cover&mask=circle)
-Carol Bertulli
-![](https://img.shields.io/github/followers/CarolBertulli?style=social)](https://github.com/CarolBertulli)
-
-[![Mask type](https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/120189007?v=4&w=100&h=100&fit=cover&mask=circle)
-Jessica Cavalcante
-![](https://img.shields.io/github/followers/jess59cavalcante?style=social)](https://github.com/jess59cavalcante)
-
-[![Mask type](https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/117678443?v=4&w=100&h=100&fit=cover&mask=circle)
-Gustavo Henrique
-![](https://img.shields.io/github/followers/Jotapppe?style=social)](https://github.com/Jotapppe)
-
-[![Mask type](https://wsrv.nl/?url=https://static.dicionariodesimbolos.com.br/upload/c9/f0/aguia-3_xl.jpeg&w=100&h=100&fit=cover&mask=circle)
-Henrique Vieira
-![](https://img.shields.io/github/followers/wagnermor?style=social)](https://google.com)
+| [![Github: Wagner Moreira](https://wsrv.nl/?url=avatars.githubusercontent.com/u/47096330?v=4&w=100&h=100&fit=cover&mask=circle)<br>Wagner Moreira<br>![](https://img.shields.io/github/followers/wagnermor?style=social)](https://github.com/wagnermor) | [![Github: Marlon Bassoto](https://wsrv.nl/?url=avatars.githubusercontent.com/u/120661184?v=4&w=100&h=100&fit=cover&mask=circle)<br>Marlon Bassoto<br>![](https://img.shields.io/github/followers/Killbazz?style=social)](https://github.com/Killbazz) | [![Github: Joel Jr.](https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/120653890?v=4&w=100&h=100&fit=cover&mask=circle)<br>Joel Jr.<br>![](https://img.shields.io/github/followers/Joeljrbeginner?style=social)](https://github.com/Joeljrbeginner) | [![Github: Carol Bertulli](https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/120660461?v=4&w=100&h=100&fit=cover&mask=circle)<br>Carol Bertulli<br>![](https://img.shields.io/github/followers/CarolBertulli?style=social)](https://github.com/CarolBertulli) |
+|:---:|:---:|:---:|:---:|
+| [![Github: Jessica Cavalcante](https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/120189007?v=4&w=100&h=100&fit=cover&mask=circle)<br>Jessica Cavalcante<br>![](https://img.shields.io/github/followers/jess59cavalcante?style=social)](https://github.com/jess59cavalcante) | [![Github: Gustavo Henrique](https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/117678443?v=4&w=100&h=100&fit=cover&mask=circle)<br>Gustavo Henrique<br>![](https://img.shields.io/github/followers/Jotapppe?style=social)](https://github.com/Jotapppe) | [![Github: Henrique Vieira](https://wsrv.nl/?url=https://static.dicionariodesimbolos.com.br/upload/c9/f0/aguia-3_xl.jpeg&w=100&h=100&fit=cover&mask=circle)<br>Henrique Vieira<br>![](https://img.shields.io/github/followers/wagnermor?style=social)](https://google.com) |  |
