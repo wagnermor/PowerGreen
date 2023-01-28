@@ -25,7 +25,7 @@ Pagamento_adicional-->Finaliza_pedido;
 ![DER](./assets/DER.png)
 
 # Tecnologias utilizadas
-## Back end &nbsp; ![GitHub language count](https://img.shields.io/github/languages/count/wagnermor/PowerGreen_BackEnd)
+## Back end &nbsp; ![GitHub language count](https://img.shields.io/github/languages/count/wagnermor/PowerGreen_BackEnd?color=green)
 
 - Java
 - Spring Boot
