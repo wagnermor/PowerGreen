@@ -1,8 +1,3 @@
-![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
-)
-![Mask type](https://wsrv.nl/?url=avatars.githubusercontent.com/u/47096330?v=4&w=300&h=300&fit=cover&mask=circle)
-
-https://img.shields.io/github/followers/wagnermor?style=social
 # PowerGreen
 **PowerGreen**
 *Energia limpa em moviento*
@@ -46,7 +41,7 @@ Pagamento_adicional-->Finaliza_pedido;
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: Java 17<
 
 ```bash
 # clonar repositório
@@ -60,146 +55,30 @@ cd powerGreen
 ```
 
 # Colaboradores
-![Mask type](https://wsrv.nl/?url=avatars.githubusercontent.com/u/47096330?v=4&w=100&h=100&fit=cover&mask=circle)
+[![Mask type](https://wsrv.nl/?url=avatars.githubusercontent.com/u/47096330?v=4&w=100&h=100&fit=cover&mask=circle)
 Wagner Moreira
-<div>
-  <div style = "max-width:140px;
-    text-align:center;
-    border:none;
-    float:left;
-    display:block;
-    margin: 0 24px 16px 0">
-    <div style="border-radius: 100%;
-        margin:0 auto;
-        overflow: hidden;
-        height: 100px;
-        width:100px;
-        background: black;">
-        <img style = "width:100px; border-radius:100px" src="https://avatars.githubusercontent.com/u/47096330?v=4"/>
-    </div>
-    <p class="formatacao">Wagner Moreira</p>
-    <a href="https://github.com/wagnermor" target="_blank">
-      <img src="https://img.shields.io/github/followers/wagnermor?style=social"/>
-    </a>
-  </div>
+![](https://img.shields.io/github/followers/wagnermor?style=social)](https://github.com/wagnermor)
 
-<div style = "max-width:140px;
-    text-align:center;
-    border:none;
-    float:left;
-    display:inline-block;
-    margin: 0 24px 16px 0">
-    <div style="border-radius: 100%;
-        margin:0 auto;
-        overflow: hidden;
-        height: 100px;
-        width:100px;
-        background: black;">
-        <img src="https://avatars.githubusercontent.com/u/120661184?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"/>
-    </div>
-    <p>Marlon Bassoto</p>
-    <a href="https://github.com/Killbazz" target="_blank">
-      <img src="https://img.shields.io/github/followers/Killbazz?style=social"/>
-    </a>
-  </div>
+[![Mask type](https://wsrv.nl/?url=avatars.githubusercontent.com/u/120661184?v=4&w=100&h=100&fit=cover&mask=circle)
+Marlon Bassoto
+![](https://img.shields.io/github/followers/Killbazz?style=social)](https://github.com/Killbazz)
 
-<div style = "width:140px;
-    text-align:center;
-    border:none;
-    float:left;
-    display:inline-block;
-    margin: 0 24px 16px 0">
-    <div style="border-radius: 100%;
-        margin:0 auto;
-        overflow: hidden;
-        height: 100px;
-        width:100px;
-        background: black;">
-        <img style = "width:100px border-radius:100px" src="https://avatars.githubusercontent.com/u/120653890?v=4"/>
-    </div>
-    <p>Joel Jr.</p>
-    <a href="https://github.com/Joeljrbeginner" target="_blank">
-      <img src="https://img.shields.io/github/followers/Joeljrbeginner?style=social"/>
-    </a>
-  </div>
+[![Mask type](https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/120653890?v=4&w=100&h=100&fit=cover&mask=circle)
+Joel Jr.
+![](https://img.shields.io/github/followers/Joeljrbeginner?style=social)](https://github.com/Joeljrbeginner)
 
-<div style = "width:140px;
-    text-align:center;
-    border:none;
-    float:left;
-    display:inline-block;
-    margin: 0 24px 16px 0">
-    <div style="border-radius: 100%;
-        margin:0 auto;
-        overflow: hidden;
-        height: 100px;
-        width:100px;
-        background: black;">
-        <img style = "width:100px border-radius:100px" src="https://avatars.githubusercontent.com/u/120660461?v=4"/>
-    </div>
-    <p>Carol Bertulli</p>
-    <a href="https://github.com/CarolBertulli" target="_blank">
-      <img src="https://img.shields.io/github/followers/CarolBertulli?style=social"/>
-    </a>
-  </div>
-  
-  <div style = "width:140px;
-    text-align:center;
-    border:none;
-    float:left;
-    display:inline-block;
-    margin: 0 24px 16px 0">
-    <div style="border-radius: 100%;
-        margin:0 auto;
-        overflow: hidden;
-        height: 100px;
-        width:100px;
-        background: black;">
-        <img style = "width:50px" src="https://avatars.githubusercontent.com/u/120189007?v=4"/>
-    </div>
-    <p>Jessica Cavalcante</p>
-    <a href="https://github.com/jess59cavalcante" target="_blank">
-      <img src="https://img.shields.io/github/followers/jess59cavalcante?style=social"/>
-    </a>
-  </div>
+[![Mask type](https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/120660461?v=4&w=100&h=100&fit=cover&mask=circle)
+Carol Bertulli
+![](https://img.shields.io/github/followers/CarolBertulli?style=social)](https://github.com/CarolBertulli)
 
-<div style = "width:140px;
-    text-align:center;
-    border:none;
-    float:left;
-    display:inline-block;
-    margin: 0 24px 16px 0">
-    <div style="border-radius: 100%;
-        margin:0 auto;
-        overflow: hidden;
-        height: 100px;
-        width:100px;
-        background: black;">
-        <img style = "width:50px" src="https://avatars.githubusercontent.com/u/117678443?v=4"/>
-    </div>
-    <p>Gustavo Henrique</p>
-    <a href="https://github.com/Jotapppe" target="_blank">
-      <img src="https://img.shields.io/github/followers/Jotapppe?style=social"/>
-    </a>
-  </div>
+[![Mask type](https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/120189007?v=4&w=100&h=100&fit=cover&mask=circle)
+Jessica Cavalcante
+![](https://img.shields.io/github/followers/jess59cavalcante?style=social)](https://github.com/jess59cavalcante)
 
-  <div style = "width:140px;
-    text-align:center;
-    border:none;
-    float:left;
-    display:inline-block;
-    margin: 0 24px 16px 0">
-    <div style="border-radius: 100%;
-        margin:0 auto;
-        overflow: hidden;
-        height: 100px;
-        width:100px;
-        background: black;">
-        <img style = "width:50px" src="https://avatars.githubusercontent.com/u/47096330?v=4"/>
-    </div>
-    <p>Henrique Vieira</p>
-    <a href="https://github.com/wagnermor" target="_blank">
-      <img src="https://img.shields.io/github/followers/wagnermor?style=social"/>
-    </a>
-  </div>
-</div>
+[![Mask type](https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/117678443?v=4&w=100&h=100&fit=cover&mask=circle)
+Gustavo Henrique
+![](https://img.shields.io/github/followers/Jotapppe?style=social)](https://github.com/Jotapppe)
+
+[![Mask type](https://wsrv.nl/?url=https://static.dicionariodesimbolos.com.br/upload/c9/f0/aguia-3_xl.jpeg&w=100&h=100&fit=cover&mask=circle)
+Henrique Vieira
+![](https://img.shields.io/github/followers/wagnermor?style=social)](https://google.com)
