@@ -67,7 +67,7 @@ cd powerGreen
         height: 100px;
         width:100px;
         background: black;">
-        <img src="https://avatars.githubusercontent.com/u/47096330?v=4"/>
+        <img style = "width:50px" src="https://avatars.githubusercontent.com/u/47096330?v=4"/>
     </div>
     <p>Wagner Moreira</p>
     <a href="https://github.com/wagnermor" target="_blank">
