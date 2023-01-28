@@ -1,25 +1,8 @@
----
-title: "testes"
-output: html_document
----
+![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d
+)
+![Mask type](https://wsrv.nl/?url=avatars.githubusercontent.com/u/47096330?v=4&w=300&h=300&fit=cover&mask=circle)
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-getwd()
-```
-
-```{css}
-.formatacao {
-color: #007bff;
-font-size: 20pt;
-text-align: justify;
-}
-.compliment {
-font-size:2em;
-font-family: monoespace;
-color: tomato;
-}
-```
+https://img.shields.io/github/followers/wagnermor?style=social
 # PowerGreen
 **PowerGreen**
 *Energia limpa em moviento*
@@ -77,6 +60,8 @@ cd powerGreen
 ```
 
 # Colaboradores
+![Mask type](https://wsrv.nl/?url=avatars.githubusercontent.com/u/47096330?v=4&w=100&h=100&fit=cover&mask=circle)
+Wagner Moreira
 <div>
   <div style = "max-width:140px;
     text-align:center;
