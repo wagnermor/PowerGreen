@@ -110,7 +110,7 @@ cd powerGreen
         height: 100px;
         width:100px;
         background: black;">
-        <img style = "width:10px  border-radius:10px" src="https://avatars.githubusercontent.com/u/120661184?v=4"/>
+        <img src="https://avatars.githubusercontent.com/u/120661184?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"/>
     </div>
     <p>Marlon Bassoto</p>
     <a href="https://github.com/Killbazz" target="_blank">
