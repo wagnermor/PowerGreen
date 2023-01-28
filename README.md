@@ -1,3 +1,25 @@
+---
+title: "testes"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+getwd()
+```
+
+```{css}
+.formatacao {
+color: #007bff;
+font-size: 20pt;
+text-align: justify;
+}
+.compliment {
+font-size:2em;
+font-family: monoespace;
+color: tomato;
+}
+```
 # PowerGreen
 **PowerGreen**
 *Energia limpa em moviento*
@@ -60,7 +82,7 @@ cd powerGreen
     text-align:center;
     border:none;
     float:left;
-    display:inline-block;
+    display:block;
     margin: 0 24px 16px 0">
     <div style="border-radius: 100%;
         margin:0 auto;
@@ -68,9 +90,9 @@ cd powerGreen
         height: 100px;
         width:100px;
         background: black;">
-        <img style = "width:50px" src="https://avatars.githubusercontent.com/u/47096330?v=4"/>
+        <img style = "width:100px; border-radius:100px" src="https://avatars.githubusercontent.com/u/47096330?v=4"/>
     </div>
-    <p>Wagner Moreira</p>
+    <p class="formatacao">Wagner Moreira</p>
     <a href="https://github.com/wagnermor" target="_blank">
       <img src="https://img.shields.io/github/followers/wagnermor?style=social"/>
     </a>
@@ -88,7 +110,7 @@ cd powerGreen
         height: 100px;
         width:100px;
         background: black;">
-        <img style = "width:50px" src="https://avatars.githubusercontent.com/u/120661184?v=4"/>
+        <img style = "width:50px  border-radius:100px" src="https://avatars.githubusercontent.com/u/120661184?v=4"/>
     </div>
     <p>Marlon Bassoto</p>
     <a href="https://github.com/Killbazz" target="_blank">
@@ -108,7 +130,7 @@ cd powerGreen
         height: 100px;
         width:100px;
         background: black;">
-        <img style = "width:50px" src="https://avatars.githubusercontent.com/u/120653890?v=4"/>
+        <img style = "width:100px border-radius:100px" src="https://avatars.githubusercontent.com/u/120653890?v=4"/>
     </div>
     <p>Joel Jr.</p>
     <a href="https://github.com/Joeljrbeginner" target="_blank">
@@ -128,7 +150,7 @@ cd powerGreen
         height: 100px;
         width:100px;
         background: black;">
-        <img style = "width:50px" src="https://avatars.githubusercontent.com/u/120660461?v=4"/>
+        <img style = "width:100px  border-radius:100px" src="https://avatars.githubusercontent.com/u/120660461?v=4"/>
     </div>
     <p>Carol Bertulli</p>
     <a href="https://github.com/CarolBertulli" target="_blank">
